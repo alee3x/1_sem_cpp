@@ -1,0 +1,6 @@
+[user]
+	name = alee3x
+	email = alexz1243421@gmail.com
+	signingkey = 117C38AC9B9B9178
+[commit]
+	gpgsign = true
